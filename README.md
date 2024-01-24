@@ -1,1 +1,1 @@
-# elchinefa-terraform-azure-VMs
+# terraform-azure-VMs
