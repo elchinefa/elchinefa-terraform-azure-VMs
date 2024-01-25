@@ -30,7 +30,7 @@ The project structure is organized as follows:
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-terraform-azure-project.git
+   git clone https://github.com/elchinefa/elchinefa-terraform-azure-VMs.git
    cd your-terraform-azure-project
    terraform init
    terraform plan
